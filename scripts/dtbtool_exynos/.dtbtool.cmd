@@ -1,0 +1,1 @@
+cmd_scripts/dtbtool_exynos/dtbtool := gcc  -o scripts/dtbtool_exynos/dtbtool scripts/dtbtool_exynos/dtbtool.o scripts/dtbtool_exynos/../dtc/libfdt/fdt.o scripts/dtbtool_exynos/../dtc/libfdt/fdt_ro.o  
